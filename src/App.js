@@ -5,6 +5,7 @@ import HomePage from "./pages/homepage/homepage-component"
 const HatsPage = () => (
   <div>
     <h1>Hats For Sale</h1>
+    <p>Huge sortiment of hats</p>
   </div>
 )
 
